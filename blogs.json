@@ -1,0 +1,44 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "image": "https://example.com/images/bluetooth-headphones.jpg",
+      "tags": ["abc","def","ghi","fgk"],
+      "content": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
+      "buy_link": "https://example.com/product/bluetooth-headphones"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Tracker",
+      "image": "https://example.com/images/fitness-tracker.jpg",
+       "tags": ["abc","def","ghi","fgk"],
+      "content": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
+      "buy_link": "https://example.com/product/bluetooth-headphones"
+    },
+    {
+      "id": 3,
+      "name": "Portable Power Bank",
+      "image": "https://example.com/images/power-bank.jpg",
+       "tags": ["abc","def","ghi","fgk"],
+      "content": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
+      "buy_link": "https://example.com/product/bluetooth-headphones"
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD Action Camera",
+      "image": "https://example.com/images/action-camera.jpg",
+       "tags": ["abc","def","ghi","fgk"],
+      "content": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
+      "buy_link": "https://example.com/product/bluetooth-headphones"
+    },
+    {
+      "id": 5,
+      "name": "Smart Home Speaker",
+      "image": "https://example.com/images/home-speaker.jpg",
+        "tags": ["abc","def","ghi","fgk"],
+      "content": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
+      "buy_link": "https://example.com/product/bluetooth-headphones"
+    }
+  ]
+}
