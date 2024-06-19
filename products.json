@@ -2,42 +2,42 @@
   "products": [
     {
       "id": 1,
-      "name": "Wireless Bluetooth Headphones",
-      "image": "https://example.com/images/bluetooth-headphones.jpg",
-      "price": "$59.99",
-      "description": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
-      "buy_link": "https://example.com/product/bluetooth-headphones"
+      "name": "ZEBRONICS Zeb-Juke BAR 9500WS PRO Dolby 5.1 soundbar",
+      "image": "https://m.media-amazon.com/images/I/71eRAMvY25L._SY355_.jpg",
+      "price": "₹11,999",
+      "description": "Wireless Satellites, Dolby Audio, 525 Watts Output Power, 16.5cm subwoofer, HDMI ARC, Optical, BT v5.0, LED Display, Wall Mount and AUX,Black",
+      "buy_link": "https://amzn.to/4b9hjpY"
     },
     {
       "id": 2,
-      "name": "Smart Fitness Tracker",
-      "image": "https://example.com/images/fitness-tracker.jpg",
-      "price": "$39.99",
-      "description": "Track your fitness journey with this smart fitness tracker. Features include heart rate monitoring, step counting, and more.",
-      "buy_link": "https://example.com/product/fitness-tracker"
+      "name": "Wipro 9W B22D WiFi LED Smart Bulb",
+      "image": "https://m.media-amazon.com/images/I/51T0RbnCy6L._SX425_.jpg",
+      "price": "₹559",
+      "description": "Smart Bulb with Music Sync Function, Compatible with Amazon Alexa and Google Assistant (16M Colours, Warm White/Neutral White/White + Dimmable) Pack of 1",
+      "buy_link": "https://amzn.to/4bqmuCd"
     },
     {
       "id": 3,
-      "name": "Portable Power Bank",
-      "image": "https://example.com/images/power-bank.jpg",
-      "price": "$24.99",
-      "description": "Never run out of battery with this portable power bank. Compact and powerful, it's the perfect travel companion.",
-      "buy_link": "https://example.com/product/power-bank"
+      "name": "IMOU 360° 1080P Full HD Security Camera",
+      "image": "https://m.media-amazon.com/images/I/51EtrQE+x7L._SY355_.jpg",
+      "price": "₹1,399",
+      "description": "360° 1080P Full HD Security Camera, Human Detection, Motion Tracking, 2-Way Audio, Night Vision, Dome Camera with WiFi & Ethernet Connection, Alexa Google Assistant, Up to 256GB SD Card Support",
+      "buy_link": "https://amzn.to/45AtJWS"
     },
     {
       "id": 4,
-      "name": "4K Ultra HD Action Camera",
-      "image": "https://example.com/images/action-camera.jpg",
-      "price": "$89.99",
+      "name": "Fire-Boltt Ninja Call Pro Plus Smart Watch",
+      "image": "https://m.media-amazon.com/images/I/81DEzbJ9ERL._SX425_.jpg",
+      "price": " ₹1,099",
       "description": "Capture every moment in stunning 4K with this ultra HD action camera. Waterproof and rugged for all your adventures.",
       "buy_link": "https://example.com/product/action-camera"
     },
     {
       "id": 5,
-      "name": "Smart Home Speaker",
-      "image": "https://example.com/images/home-speaker.jpg",
-      "price": "$49.99",
-      "description": "Control your smart home with ease using this smart home speaker. Voice commands make it simple to play music, check the weather, and more.",
+      "name": "Syvo WT 3130 Aluminum Tripod (133CM)",
+      "image": "https://m.media-amazon.com/images/I/61H1dMNTSnL._SX522_.jpg",
+      "price": "₹799",
+      "description": " Universal Lightweight Tripod with Mobile Phone Holder Mount & Carry Bag for All Smart Phones, Gopro, Cameras",
       "buy_link": "https://example.com/product/home-speaker"
     }
   ]
