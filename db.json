@@ -40,5 +40,89 @@
       "description": "Control your smart home with ease using this smart home speaker. Voice commands make it simple to play music, check the weather, and more.",
       "buy_link": "https://example.com/product/home-speaker"
     }
+  ],
+  "topdeals": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "image": "https://example.com/images/bluetooth-headphones.jpg",
+      "price": "$59.99",
+      "description": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
+      "buy_link": "https://example.com/product/bluetooth-headphones"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Tracker",
+      "image": "https://example.com/images/fitness-tracker.jpg",
+      "price": "$39.99",
+      "description": "Track your fitness journey with this smart fitness tracker. Features include heart rate monitoring, step counting, and more.",
+      "buy_link": "https://example.com/product/fitness-tracker"
+    },
+    {
+      "id": 3,
+      "name": "Portable Power Bank",
+      "image": "https://example.com/images/power-bank.jpg",
+      "price": "$24.99",
+      "description": "Never run out of battery with this portable power bank. Compact and powerful, it's the perfect travel companion.",
+      "buy_link": "https://example.com/product/power-bank"
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD Action Camera",
+      "image": "https://example.com/images/action-camera.jpg",
+      "price": "$89.99",
+      "description": "Capture every moment in stunning 4K with this ultra HD action camera. Waterproof and rugged for all your adventures.",
+      "buy_link": "https://example.com/product/action-camera"
+    },
+    {
+      "id": 5,
+      "name": "Smart Home Speaker",
+      "image": "https://example.com/images/home-speaker.jpg",
+      "price": "$49.99",
+      "description": "Control your smart home with ease using this smart home speaker. Voice commands make it simple to play music, check the weather, and more.",
+      "buy_link": "https://example.com/product/home-speaker"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "image": "https://example.com/images/bluetooth-headphones.jpg",
+      "price": "$59.99",
+      "description": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
+      "buy_link": "https://example.com/product/bluetooth-headphones"
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Tracker",
+      "image": "https://example.com/images/fitness-tracker.jpg",
+      "price": "$39.99",
+      "description": "Track your fitness journey with this smart fitness tracker. Features include heart rate monitoring, step counting, and more.",
+      "buy_link": "https://example.com/product/fitness-tracker"
+    },
+    {
+      "id": 3,
+      "name": "Portable Power Bank",
+      "image": "https://example.com/images/power-bank.jpg",
+      "price": "$24.99",
+      "description": "Never run out of battery with this portable power bank. Compact and powerful, it's the perfect travel companion.",
+      "buy_link": "https://example.com/product/power-bank"
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD Action Camera",
+      "image": "https://example.com/images/action-camera.jpg",
+      "price": "$89.99",
+      "description": "Capture every moment in stunning 4K with this ultra HD action camera. Waterproof and rugged for all your adventures.",
+      "buy_link": "https://example.com/product/action-camera"
+    },
+    {
+      "id": 5,
+      "name": "Smart Home Speaker",
+      "image": "https://example.com/images/home-speaker.jpg",
+      "price": "$49.99",
+      "description": "Control your smart home with ease using this smart home speaker. Voice commands make it simple to play music, check the weather, and more.",
+      "buy_link": "https://example.com/product/home-speaker"
+    }
   ]
 }
