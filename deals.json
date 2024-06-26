@@ -2,48 +2,58 @@
   "topdeals": [
     {
       "id": 1,
-      "name": "Wireless Bluetooth Headphones",
-      "image": "https://example.com/images/bluetooth-headphones.jpg",
-      "price": "$59.99",
-      "deal_price": "$49",
-      "description": "Experience high-quality sound with these wireless Bluetooth headphones. Perfect for music lovers on the go.",
-      "buy_link": "https://example.com/product/bluetooth-headphones"
+      "name": "Safari Suitcase Set",
+      "brand":"Safari",
+      "image": "https://m.media-amazon.com/images/I/61-SNkMcaqL._SX679_.jpg",
+      "price": "₹30,335",
+      "deal_price": "₹5,799",
+      "discount":"81%",
+      "description": "Safari Pentagon 3 Pc Set 55, 65 & 75 Cms- Small, Medium & Large Polypropylene (Pp) Hard Sided 4 Wheels 360 Degree Rotation Luggage Set/Speed_Wheel Suitcase Set/Trolley Bag Set (Cyan Blue)",
+      "buy_link": "https://amzn.to/4eIokRt"
     },
-    {
+   {
       "id": 2,
-      "name": "Smart Fitness Tracker",
-      "image": "https://example.com/images/fitness-tracker.jpg",
-      "price": "$39.99",
-      "deal_price": "$49",
-      "description": "Track your fitness journey with this smart fitness tracker. Features include heart rate monitoring, step counting, and more.",
-      "buy_link": "https://example.com/product/fitness-tracker"
+      "name": "ECOVACS Robotic Vacuum Cleaner",
+      "brand":"ECOVACS",
+      "image": "https://m.media-amazon.com/images/I/910VyZI-8vL._SX679_.jpg",
+      "price": "₹61,900",
+      "deal_price": "₹14,900",
+      "discount":"76%",
+      "description": "ECOVACS DEEBOT U2 PRO 2-in-1 Robotic Vacuum Cleaner with Mopping, Strong Suction, Smart App Enabled, Google Assistant & Alexa for Hard Floor, Tiles, Carpet & Wood",
+      "buy_link": "https://amzn.to/3zeKzOG"
     },
     {
       "id": 3,
-      "name": "Portable Power Bank",
-      "image": "https://example.com/images/power-bank.jpg",
-      "price": "$24.99",
-      "deal_price": "$49",
-      "description": "Never run out of battery with this portable power bank. Compact and powerful, it's the perfect travel companion.",
-      "buy_link": "https://example.com/product/power-bank"
+      "name": "Urban Terrain Gear bicycle",
+      "brand":"Urban Terrain",
+      "image": "https://m.media-amazon.com/images/I/717AqcU-s6L._SX679_.jpg",
+      "price": "₹49,999",
+      "deal_price": "₹9,999",
+      "discount":"80%",
+      "description": "Urban Terrain UT6000S29 Steel Cycle/Bicycle MTB (21 Speed) Gear bicycle for Men/Boys with Front Suspension & Dual Disc Brake Mountain Bike | Ideal for 15+ Years (Green)",
+      "buy_link": "https://amzn.to/3xBdSL6"
     },
     {
       "id": 4,
-      "name": "4K Ultra HD Action Camera",
-      "image": "https://example.com/images/action-camera.jpg",
-      "price": "$89.99",
-      "deal_price": "$49",
-      "description": "Capture every moment in stunning 4K with this ultra HD action camera. Waterproof and rugged for all your adventures.",
-      "buy_link": "https://example.com/product/action-camera"
+      "name": "HASHTAG FITNESS Gym Equipment For Home Workout",
+      "brand":"HASHTAG FITNESS",
+      "image": "https://m.media-amazon.com/images/I/71HYs7npFOL._SX679_.jpg",
+      "price": "₹25,999",
+      "deal_price": "₹5,498",
+      "discount":"79%",
+      "description": "HASHTAG FITNESS 10Kg To 100Kg Gym Equipment For Home Workout With Steel Plates, Metal Integrated Rubber Weights, 5Ft Rod, Dumbbell Set For Home Gym (30Kg, Chrome Steel) Adjustable",
+      "buy_link": "https://amzn.to/45DUJ7L"
     },
     {
       "id": 5,
-      "name": "Smart Home Speaker",
-      "image": "https://example.com/images/home-speaker.jpg",
-      "price": "$49.99",
-      "deal_price": "$49",
-      "description": "Control your smart home with ease using this smart home speaker. Voice commands make it simple to play music, check the weather, and more.",
-      "buy_link": "https://example.com/product/home-speaker"
+      "name": "Crossbeats Dash Camera for Car",
+      "brand":"Crossbeats RoadEye",
+      "image": "https://m.media-amazon.com/images/I/81gLjKI2U-L._SX679_.jpg",
+      "price": "₹8,999",
+      "deal_price": "₹2,999",
+      "discount":"67%",
+      "description": "Crossbeats RoadEye Neo Dash Camera for Car | WiFi & APP | 2MP FHD 1080p 170° Wide Angle Dashcam | 360° Front Camera for Car | Night Vision | G-Sensor | Loop & Audio Recording | Easy DIY Set Up",
+      "buy_link": "https://amzn.to/4bk0LMa"
     }
   ]
 }
