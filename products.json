@@ -3,42 +3,80 @@
     {
       "id": 1,
       "name": "ZEBRONICS Zeb-Juke BAR 9500WS PRO Dolby 5.1 soundbar",
+      "brand":"ZEBRONICS",
       "image": "https://m.media-amazon.com/images/I/71eRAMvY25L._SY355_.jpg",
       "price": "₹11,999",
+      "mrp": "₹48,999",
+      "discount": "76%",
+      "category":"electronics",
       "description": "Wireless Satellites, Dolby Audio, 525 Watts Output Power, 16.5cm subwoofer, HDMI ARC, Optical, BT v5.0, LED Display, Wall Mount and AUX,Black",
-      "buy_link": "https://amzn.to/4b9hjpY"
+      "buy_link": "https://amzn.to/4b9hjpY",
+      "keywords":["speaker","wireless speaker","soundbar","Dolby Audio"]
     },
     {
       "id": 2,
       "name": "Wipro 9W B22D WiFi LED Smart Bulb",
+      "brand":"wipro",
       "image": "https://m.media-amazon.com/images/I/51T0RbnCy6L._SX425_.jpg",
       "price": "₹559",
+      "mrp": "₹2,099",
+      "discount": "72%",
+      "category":"electronics",
       "description": "Smart Bulb with Music Sync Function, Compatible with Amazon Alexa and Google Assistant (16M Colours, Warm White/Neutral White/White + Dimmable) Pack of 1",
-      "buy_link": "https://amzn.to/4bqmuCd"
+      "buy_link": "https://amzn.to/4bqmuCd",
+      "keywords":["wifi bulb","RBG bulb","smart bulb","bulb"]
     },
     {
       "id": 3,
       "name": "IMOU 360° 1080P Full HD Security Camera",
+      "brand":"IMOU",
       "image": "https://m.media-amazon.com/images/I/51EtrQE+x7L._SY355_.jpg",
       "price": "₹1,399",
+      "mrp": "₹7,500",
+      "discount": "80%",
+      "category":"electronics",
       "description": "360° 1080P Full HD Security Camera, Human Detection, Motion Tracking, 2-Way Audio, Night Vision, Dome Camera with WiFi & Ethernet Connection, Alexa Google Assistant, Up to 256GB SD Card Support",
-      "buy_link": "https://amzn.to/45AtJWS"
+      "buy_link": "https://amzn.to/45AtJWS",
+      "keywords":["camera","cctv","CCTV","wifi camera"]
     },
     {
       "id": 4,
       "name": "Fire-Boltt Ninja Call Pro Plus Smart Watch",
+      "brand":"Fire-Boltt",
       "image": "https://m.media-amazon.com/images/I/81DEzbJ9ERL._SX425_.jpg",
       "price": " ₹1,099",
+      "mrp": "₹19,999",
+      "discount": "90%",
+      "category":"electronics",
       "description": "Capture every moment in stunning 4K with this ultra HD action camera. Waterproof and rugged for all your adventures.",
-      "buy_link": "https://example.com/product/action-camera"
+      "buy_link": "https://amzn.to/4cjJR1e",
+      "keywords":["smart-watch","watch","fire boltt"]
     },
     {
       "id": 5,
-      "name": "Syvo WT 3130 Aluminum Tripod (133CM)",
-      "image": "https://m.media-amazon.com/images/I/61H1dMNTSnL._SX522_.jpg",
-      "price": "₹799",
-      "description": " Universal Lightweight Tripod with Mobile Phone Holder Mount & Carry Bag for All Smart Phones, Gopro, Cameras",
-      "buy_link": "https://example.com/product/home-speaker"
+      "name": "DIGIMORE Professional Condenser Microphone Kit",
+      "brand":"DIGIMORE",
+      "image": "https://m.media-amazon.com/images/I/814kyjVAzVL._SX679_.jpg",
+      "price": "₹6,998",
+      "mrp": "₹11,999",
+      "discount": "42%",
+      "category":"electronics",
+      "description": "Microphone Kit with Audio Interface for Podcasting Live Streaming Singing PC Mobile YouTube (D-410/400)",
+      "buy_link": "https://amzn.to/45G4LFm",
+      "keywords":["mic","microphone","wireless mic","wireless microphone"]
+    },
+    {
+      "id": 6,
+      "name": "VOOK Wireless Dual Channel Mic",
+      "brand":"VOOK",
+      "image": "https://m.media-amazon.com/images/I/814kyjVAzVL._SX679_.jpg",
+      "price": "₹2,489",
+      "mrp": "₹6,999",
+      "discount": "64%",
+      "category":"electronics",
+      "description": "Microphone with Noise Cancellation - Lavalier Mic for YouTube, Video Recording, Live Streaming - Compatible with Type-C Android & iPhone - Includes Charging Case",
+      "buy_link": "https://amzn.to/3RKsWfY",
+      "keywords":["mic","microphone","wireless mic","wireless microphone"]
     }
   ]
 }
